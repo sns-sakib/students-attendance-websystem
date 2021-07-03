@@ -1,0 +1,97 @@
+#content{
+    display: none;
+    margin-bottom: 250px;
+    margin-top: 100px;
+    padding-top: 100px;
+
+}
+#query_content{
+    margin-bottom: 100px;
+}
+
+#error{
+    display: none;
+
+}
+
+#message{
+    display: none;
+}
+#passgroup{
+    display: none;
+}
+#result{
+    display: none;
+}
+.pro_teacher_content{
+    margin-bottom: 250px;
+}
+
+#messageLogin{
+    height: 30px;
+
+    display: none;
+}
+#delete{
+    display: none;
+}
+
+.hidden_input{
+    display: none;
+}
+.error{
+    font-size: 15px;
+    color: white;
+}
+
+body{
+    background-color: #b3b7bb;
+}
+.carousel-inner .carousel-item{
+    margin-left: 45px;
+
+}
+#carousel_content{
+
+}
+
+body{
+    background: url("../images/bg/bg4.jpg") no-repeat ;
+    background-attachment:fixed;
+    width: 100%;
+    height: 100vh;
+}
+#loginModal_content{
+    background: url("../images/bg/modal2.jpg") no-repeat ;
+
+}
+.image_about{
+    box-shadow: rgb(11, 56, 74) 6px 10px 16px -11px;;
+}
+.about_us{
+    box-shadow: rgb(11, 56, 74) 6px 10px 16px -11px;;
+}
+.contact{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.mapfooter{
+    color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: #002752 ;
+}
+.mymap{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+.footer {
+
+}
+.my_icon{
+    height: 20px;
+    width: 20px;
+}
+.table tr:hover{
+    background-color:#b3b7bb;
+}
