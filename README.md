@@ -10,6 +10,8 @@ Please check the 1602022.pdf file for full report on the project
 5. Ajax
 6. JavaScript
 7. Jquery
+
+
 Project Description:
 I made this project with the base of static condition of PSTU attendance system. An online
 Attendance Management System is an innovative way to monitor and track the attendance of students.
